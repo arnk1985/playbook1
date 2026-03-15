@@ -1,6 +1,5 @@
 ---
 - name: reboot windows server
-  hosts: windows
   gather_facts: no
 
   tasks:
